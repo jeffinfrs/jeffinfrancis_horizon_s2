@@ -24,6 +24,15 @@ If angle > 68°, servo is restricted
 
 LED turns ON when limit is exceeded
 
+#Links
+
+TinkerCad Circuit
+
+https://www.tinkercad.com/things/5scWWbcgo86-fantabulous-duup-jofo/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=cYb_zyIL-ttQWhozbeO7_LE-HCg5jaNZDzQTwgHFwxw
+
+Simulation Video (Google Drive Link)
+
+
 #Files
 
 arduino_code.ino → Arduino code

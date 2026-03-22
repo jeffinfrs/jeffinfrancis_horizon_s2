@@ -32,6 +32,7 @@ https://www.tinkercad.com/things/5scWWbcgo86-fantabulous-duup-jofo/editel?return
 
 Simulation Video (Google Drive Link)
 
+https://drive.google.com/file/d/13fRpmhEcmGqYtNXYfF4g0xteJSb32GJC/view?usp=sharing
 
 #Files
 

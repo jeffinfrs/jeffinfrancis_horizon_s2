@@ -28,4 +28,4 @@ LED turns ON when limit is exceeded
 
 arduino_code.ino → Arduino code
 
-simulation.png → Working simulation screenshot
+simulation.mp4 → Working simulation video

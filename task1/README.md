@@ -10,6 +10,7 @@ Distance and time required.
 
 Example Input:
 Orgin Coordinates - 0 0 
+
 Destination Coordinates - 100 40 
 Initial velocity - 2 
 Acceleration - 1 

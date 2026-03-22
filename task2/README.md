@@ -38,4 +38,4 @@ https://drive.google.com/file/d/13fRpmhEcmGqYtNXYfF4g0xteJSb32GJC/view?usp=shari
 
 arduino_code.ino → Arduino code
 
-simulation.mp4 → Working simulation video
+Recording 2026-03-22 172043.mp4 → Working simulation video

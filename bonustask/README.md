@@ -39,13 +39,13 @@ Sensor Node → /distance → Decision Node → /rover_command → Command Liste
 
 #Files
 
-`command_listener_node.py 
+`command_listener_node.py`
 
-`decision_node.py
+`decision_node.py`
 
-`sensor_node.py
+`sensor_node.py`
 
-`output.png - Screenhot of sensor node, decision node, command listener node running in terminal
+`output.png` - Screenhot of sensor node, decision node, command listener node running in terminal
 
 #How to run
 

@@ -26,10 +26,16 @@ LED indicates when limit is exceeded
 
 -Task 3 – ROS2
 
-In Progress
+Publisher node sends random distance values every second on `/distance`
+
+Subscriber node receives and prints distance values
+
+Ubuntu 22.04 and ROS2 Humble used
 
 #Structure
 
-task1/ → C program + output
+task1/- C program + output
 
-task2/ → Arduino code + simulation
+task2/ - Arduino code + simulation
+
+task3/ - install Ros2 Humble + run publisher and subsciber nodes

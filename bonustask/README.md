@@ -1,0 +1,31 @@
+ ROS2 ROVER COMMAND NODE
+
+#FDescription
+
+This task extends Level 3 ROS2 by adding decision making and rover commands:  
+
+**Sensor Node** - publishes random distance values every second on `/distance`. 
+
+**Decision Node** - subscribes to `/distance` and decides rover movement: 
+
+  - Distance < 30 → STOP
+   
+  - Distance ≥ 30 → MOVE_FORWARD
+    
+  - Publishes command to `/rover_command`.
+      
+**Command Listener Node** - subscribes to `/rover_command` and prints the command.
+
+#Architecture
+
+Sensor Node → /distance → Decision Node → /rover_command → Command Listener Node
+
+#How to run
+---
+
+## How to Run
+
+1. Open Ubuntu terminal (ROS2 Humble installed).
+2.Terminal 1 – run Sensor Node:
+```bash
+python3 sensor_node.py

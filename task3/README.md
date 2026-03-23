@@ -55,12 +55,12 @@ Received distance: 12
 #How to run
 
 1. Open Terminal 1 - run publisher:
-2. 
+   
 ```bash
 python3 publisher.py
 ```
 2. Open Teminal 2 - run subscriber:
-3. 
+   
 ```bash
 python3 subscriber.py
 ```

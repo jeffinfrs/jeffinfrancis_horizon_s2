@@ -6,6 +6,8 @@ Jeffin Francis
 
 #Repository
 
+jeffinfrancis_horizon_s2
+
 This repository contains my submission for the Horizon CUSAT Software Team recruitment tasks.
 
 #Completed Tasks

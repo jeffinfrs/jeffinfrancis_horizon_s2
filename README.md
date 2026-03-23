@@ -32,6 +32,20 @@ Subscriber node receives and prints distance values
 
 Ubuntu 22.04 and ROS2 Humble used
 
+-Bonus task -  ROS2 ROVER COMMAND NODE
+
+**Sensor Node** - publishes random distances `/distance`  
+
+**Decision Node** - subscribes to `/distance` and publishes `/rover_command`
+
+ #Distance < 30 - STOP
+ 
+ #Distance ≥ 30 - MOVE_FORWARD
+ 
+**command listener node** - subscribes to `/rover_command` and prints commands
+
+Demonstrates communication: Sensor → Decision → Command Listener nodes
+
 #Structure
 
 task1/- C program + output
@@ -39,3 +53,5 @@ task1/- C program + output
 task2/ - Arduino code + simulation
 
 task3/ - install Ros2 Humble + run publisher and subsciber nodes
+
+bonustask/ - run sensor node, decision node and command listener node 
